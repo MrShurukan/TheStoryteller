@@ -1,0 +1,3 @@
+﻿open TheStorytellerCompiler.SampleTests
+
+fparsec_test

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TheStorytellerCompiler", "TheStorytellerCompiler\TheStorytellerCompiler.fsproj", "{A84407FB-210F-4460-BC1D-1C9B74E3FDF6}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "StorytellerCli", "StorytellerCli\StorytellerCli.fsproj", "{A9CD79A6-2A93-41DD-B150-E92AA6B4D3E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A84407FB-210F-4460-BC1D-1C9B74E3FDF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A84407FB-210F-4460-BC1D-1C9B74E3FDF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A84407FB-210F-4460-BC1D-1C9B74E3FDF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A84407FB-210F-4460-BC1D-1C9B74E3FDF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9CD79A6-2A93-41DD-B150-E92AA6B4D3E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9CD79A6-2A93-41DD-B150-E92AA6B4D3E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9CD79A6-2A93-41DD-B150-E92AA6B4D3E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9CD79A6-2A93-41DD-B150-E92AA6B4D3E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
